@@ -1,0 +1,32 @@
+.wrapper{
+    background: red;
+    height: 800px;
+    width: 1250px;
+    /* border: 15px solid yellow; */
+    border: 20px solid blue;    
+}
+
+.header{
+    float: center;
+
+}
+
+.topright{
+    float: right;
+}
+.topleft{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+
+.form{
+   font-size: 30px;
+ 
+
+}
